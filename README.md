@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 💬 Pronouns: He/him.
-- 🔍 I’m currently focusing on CI/CD and SRE at F5 Networks.
-- 🧪 Sometimes I experiment with load balancers and databases.
+- 🙋🏻 Pronouns: He/him.
+- 🕵🏻‍♂️ I’m currently focusing on CI/CD and SRE at F5 Networks.
+- 👨🏻‍🔬 Sometimes I experiment with load balancers and databases.
 
 <!--
 **p16n/p16n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
