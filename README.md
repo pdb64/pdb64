@@ -4,9 +4,9 @@
 - 👷🏻‍♂️ I’m currently focusing on CI/CD and SRE at F5 Networks.
 - 👨🏻‍🔬 Sometimes I experiment with load balancers and databases.
 
-### If you're a recruiter...
+### If you're a recruiter... 
 
-Thanks for visiting my GitHub profile!  It shows me that you care more about my body of work than my credentials.  If you're interested in what work I take the most pride in, please visit any of the pinned projects below.  If you have any questions, please feel free to email me (link in my profile bio to the left), but please take note:
+Thanks for visiting my GitHub profile!  It shows me that you care more about my body of work than my credentials, which is a great thing!  If you're interested in what work I take the most pride in, please visit any of the pinned projects below.  If you have any questions, please feel free to email me (link in my profile bio to the left), but please take note:
 
 - I will not work in the cryptocurrency, NFT, or lending industries.
 - I am not willing to relocate to San Francisco (I'm quite happy where I am!).
