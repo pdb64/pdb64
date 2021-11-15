@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🙋🏻 Pronouns: He/him.
-- 🕵🏻‍♂️ I’m currently focusing on CI/CD and SRE at F5 Networks.
+- 👷🏻‍♂️ I’m currently focusing on CI/CD and SRE at F5 Networks.
 - 👨🏻‍🔬 Sometimes I experiment with load balancers and databases.
 
 <!--
