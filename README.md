@@ -1,24 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏻
 
-- 🙋🏻 Pronouns: He/him.
-- 👷🏻‍♂️ I’m currently focusing on CI/CD and SRE at F5 Networks.
-- 👨🏻‍🔬 Sometimes I experiment with load balancers and databases.
-
-### If you're a recruiter... 
-
-Thanks for visiting my GitHub profile!  It shows me that you care more about my body of work than my credentials, which is a great thing!  If you're interested in what work I take the most pride in, please visit any of the pinned projects below.  If you have any questions, please feel free to email me (link in my profile bio to the left).
-
-<!--
-**p16n/p16n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🙋🏻 My name is Pádraig, but people know me professionally as Patrick. I use he/they pronouns.
+- 🧑🏻‍🎓 I’m currently taking a sabbatical and I am not open to new opportunities.
+- 🧑🏻‍🔬 Sometimes I experiment with load balancers and databases.
+- 🪐 I'm passionate about Astronomy and Meteorology!
