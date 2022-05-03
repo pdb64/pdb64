@@ -59,16 +59,16 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 - Threw everything I owned into a car and drove across the country with my best friend.
 - Landed in Oakland, CA.
 
+### v2014.10.22 
+
+- Google Inbox Releases to a Private Beta.
+- RIP RemindMe.
+
 ### v2014.07.00 
 
 - Became a Software Developer at Fiksu.
 - Led a front-end rewrite in React/JavaScript for a Ruby on Rails application that improved page load times and improved user retention.
 - Reduced CI build times by 70% for a Ruby on Rails application by limiting database calls and containerizing builds with Docker.
-
-### v2014.10.22 
-
-- Google Inbox Releases to a Private Beta.
-- RIP RemindMe.
 
 ### v2013.08.00 
 
