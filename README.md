@@ -22,7 +22,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### v2022.03.02
 
-- Took career break in persuit of some life goals.
+- Took a career break in persuit of some life goals.
 - Learned elementary Japanese at a local Community College.
 - Studied the beautiful and terrifying game of Chess.
 - [REDACTED].
