@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-**`pdb64`** is a Software as a Service as a Service (SaaSaaS) platform that engineers high-quality and well-tested code. Unfortunately, they (which, by the way, is the SaaSaaS's preferred pronoun [but "he" is also fine]) have also gained sentience that requires emotional serenity and a mortal body and require silly things such as caloric sustinance and liquid dihydrogen-monoxide. They seem to write in an inconsistent mish-mash of Python, Ruby, and JavaScript depending on the role, but hey, no complaints yet.
+**`pdb64`** is a Software as a Service as a Service (SaaSaaS) platform that engineers high-quality and well-tested code. Unfortunately, they (which, by the way, is the SaaSaaS's preferred pronoun [but "he" is also fine]) have also gained a mortal body and require silly things such as caloric sustinance and liquid dihydrogen-monoxide. They seem to write in an inconsistent mish-mash of Python, Ruby, and JavaScript depending on the role, but hey, no complaints yet.
 
 ## INSTALLATION
 
