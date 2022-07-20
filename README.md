@@ -1,29 +1,9 @@
-# README.md
-
-## INTRODUCTION
-
-**`pdb64`** is a Software as a Service as a Service (SaaSaaS) platform that engineers high-quality and well-tested code. Unfortunately, they have also gained a mortal body and require silly things such as caloric sustenance and seem to indulge in navel-gazing to a startling degree. They generate code in an inconsistent mish-mash of Ruby and Python depending on the role, but hey, no complaints yet.
-
-## INSTALLATION
-
-Installation of the **`pdb64`** platform requires emailing [patrick@pdb64.xyz](mailto:patrick@pdb64.xyz) the job description and—if possible—the salary bands for the requested role. An AI will parse the body of the email and follow back with next steps if the decisioning deems it a fit. **Important notice:** the **`pdb64`** platform is not compatible with cryptocurrencies or blockchains due to Ethics API incompatibilities.
-
-## LICENSE
-
-Copyright 2022 **`pdb64`**
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
 ## CHANGELOG
 
 ### v2022.03.02
 
 - Took a career break in persuit of some life goals.
-- Learned elementary Japanese at a local Community College.
+- Learned elementary Japanese at a community college.
 - Studied the beautiful and terrifying game of Chess.
 - [REDACTED].
 
